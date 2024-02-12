@@ -1,0 +1,24 @@
+{
+  "name": "native-radio-button",
+  "version": "1.0.0",
+  "description": "This is a ready-to-go styled radio selector with text attached",
+  "main": "dist/RadioButton.js",
+  "types": "dist/RadioButton.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "i-max-xi",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-svg": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-native": "^0.73.0",
+    "react": "^18.2.0",
+    "react-native": "^0.73.4",
+    "typescript": "^5.3.3"
+  }
+}
